@@ -28,7 +28,7 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 
 1. Source code **SHOULD** be up to date with the latest development tip. 
 
-1. Projects **SHOULD** demonstrate a willingness to accept contributions from the community such as Issues and Pull Requests.
+1. Projects **SHOULD** demonstrate a willingness to accept contributions from the community such as Issues and Pull Requests. Where Pull Requests or similar are not merged, the project should explain the reason for this decision in a reasonably timely manner.
 
 1. Where appropriate, live, public internet-facing demonstration instances of the supported apps **SHOULD** be maintained by the originators. 
 
