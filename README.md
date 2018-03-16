@@ -30,7 +30,7 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 
 1. Projects **SHOULD** demonstrate a willingness to accept contributions from the community such as Issues and Pull Requests.
 
-1. Live, public internet-facing demonstration instances of the supported apps **SHOULD** be maintained by the originators, under subdomains of the apperta.org top level domain if appropriate.
+1. Where appropriate, live, public internet-facing demonstration instances of the supported apps **SHOULD** be maintained by the originators. 
 
 1. Projects **SHOULD** display the ['Supported By Apperta' badge](https://github.com/AppertaFoundation/apperta-image-assets/blob/master/supported_by_apperta_lores.png) on the repositories which have been supported by Apperta, and may demonstrate attribution in other ways if they so wish.
 
@@ -43,6 +43,8 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 1. Apperta **MAY** download code snapshots from the originators' repository at the point of completion of a project or at any other time, in order to protect their investment in development of projects.
 
 1. Apperta **MAY** fork a code repository from the originators' repository at the point of completion of a project or at any other time, in order to protect their investment in development of projects.
+
+1. Depending on the specifics of the project, Apperta **MAY** ask that live public internet-facing demonstration instances use an Apperta subdomain that Apperta will provide and configure. If this incurs a cost it **WILL** be covered by Apperta.
 
 In exceptional circumstances, variations to this policy may be discussed and agreed by the Apperta Board, for individual projects.
 
