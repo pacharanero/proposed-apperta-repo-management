@@ -44,9 +44,9 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
 
 1. Apperta **MAY** fork a code repository from the originators' repository at the point of completion of a project or at any other time, in order to protect their investment in development of projects.
 
-1. Depending on the specifics of the project Apperta **MAY** ask that live public internet-facing demonstration instances use an Apperta subdomain that Apperta will provide and configure. If this incurs a cost it **WILL** be covered by Apperta.
+1. Depending on the specifics of the project, Apperta **MAY** ask that live public internet-facing demonstration instances use an Apperta subdomain that Apperta will provide and configure. If this incurs a cost it **WILL** be covered by Apperta.
 
-1. In exceptional circumstances, variations to this policy may be discussed and agreed by the Apperta Board, for individual projects.
+In exceptional circumstances, variations to this policy may be discussed and agreed by the Apperta Board, for individual projects.
 
 ## Definitions
 * Apperta = "The Apperta Foundation CIC"
