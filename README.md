@@ -22,7 +22,7 @@ Furthermore Apperta is in general unlikely to be the sole investor in most open 
  
 ### Responsibilities of maintainers
 
-1. Repositories **SHOULD** remain in the GitHub Organisation of the originator, **UNLESS** the Apperta Technical Subcomittee deem that there is a significant risk of loss of the community's asset through a future closure of the source code, in which case the Apperta Foundation will fork the repository to the Apperta Foundation GitHub organisation.
+1. Repositories **SHOULD** remain in the GitHub Organisation of the originator, **UNLESS** the Apperta Technical Subcomittee deem that there is a significant risk of loss of the community's asset through a future closure of the source code, in which case the Apperta Foundation will ask that the repository be managed by the Apperta Foundation under their GitHub organisation.
 
 1. Projects **SHOULD** have demonstrably open source code using a public source code management tool (such as GitHub) 
 
